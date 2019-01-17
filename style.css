@@ -1,44 +1,106 @@
 .row{   
-
-    background-color:black;
     color:white;
-    font-size:20px;
+    font-size:35px;
+    text-align:;
 }
 .headshot{
     width:20%;
    
 }
 .mid{
-    background-color:white;
+    background-color:whit
     color:black;
     align-items:center;
-    font-size:50px;
-    margin-top:5px;
-    margin-bottom:5px;
+    font-size:40px;
 }
-.aboutme{
-    border:100px solid black;
+.tabs{
+    letter-spacing:2px; 
 }
 
-.footer{
-    display: flex; 
-    justify-content:space-between;
-}
-
-img{
-    width:600px;
-    height:600px;
-}
- 
 body{
     font-family: 'Signika', sans-serif;
-    background-color: white;
+    background-color: blue;
     text-align: center;
 }
 
 h1{
-    display: flex
-    justify-content:center;
     text-align: center; 
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+#name{
+    font-family: 'Timmana', sans-serif;   
+}
+#fanpageImg {
+    width:500px;
+    height:300px; 
+    padding:5px;
+    background-color: black;
+    border: 5px solid #ff0000;
+    font-family: 'Fjalla One', sans-serif;
 }
 
+#rockImg {
+    width:500px;
+    height:300px;
+    padding:5px;
+    background-color: black;
+    border: 5px solid #3333ff;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#quizImg {
+    width:500px;
+    height:300px;
+    padding:5px;
+    background-color: black;
+    border: 5px solid #cc33ff;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#githubImg {
+    width:300px;
+    height:160px; 
+}
+
+#meImg {
+    width:300px;
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+     top:0px;
+    padding: 5px;
+    background-color: #6666ff;
+    border: 5px solid #3333ff;
+}
+
+#logoImg {
+    width:370px;
+    height:100px;
+    top:0px;
+    padding: 5px;
+    background-color: #6666ff;
+    border: 5px solid #3333ff;
+}
+
+#aboutBody {
+    color:white;
+    top:0px;
+    padding: 5px;
+    background-color: #6666ff;
+    border: 10px solid #3333ff;
+}
+
+#animeImg {
+    width:400px;
+    height:200px;
+}
+
+p{
+    color:white;
+}
